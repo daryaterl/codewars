@@ -1,0 +1,1 @@
+SELECT Id, FirstName, LastName FROM students where IsActive =1;
