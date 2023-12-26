@@ -1,1 +1,1 @@
-SELECT MIN(age), MAX(age) FROM people;
+SELECT MIN(age) AS age_min, MAX(age) AS age_max FROM people;
